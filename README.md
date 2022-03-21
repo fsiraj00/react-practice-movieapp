@@ -19,6 +19,7 @@ This will automatically install all the dependencies.
 To Start/Run the application, in the terminal, type:
 
 ### `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
