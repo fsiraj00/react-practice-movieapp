@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Use this link: https://react-practice-movieapp.netlify.app/
 
-or you can hold is locally following the steps below.
+or you can host is locally following the steps below.
 
 First you need to clone this repository on your device 
 
